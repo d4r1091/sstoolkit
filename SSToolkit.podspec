@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
   spec.dependency 'SAMLabel'
   spec.dependency 'SAMLoadingView'
   spec.dependency 'SAMCircleProgressView'
-  spec.dependency 'SAMRateLimit'
+  spec.dependency 'RateLimit'
   spec.dependency 'SAMTextField'
   spec.dependency 'SAMTextView'
   spec.dependency 'SAMWebView'
